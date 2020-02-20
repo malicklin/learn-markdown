@@ -9,6 +9,7 @@
 command+shift +p **打开markdown浏览器**
 
 [百度链接](wwww.baidu.com)
+[链接同文件夹文件]（MORE.MD）
 
 >引文 此文章来自于 或者作为**重点语句**
 
